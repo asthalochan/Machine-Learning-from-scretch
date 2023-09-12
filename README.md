@@ -18,16 +18,16 @@ This repository serves as a hub for learning and exploring fundamental machine l
 
 Here are the sub-repositories available in this collection:
 
-1. [K-Nearest Neighbors (KNN)](01 KNN)
-2. [Linear Regression](02 Linear Regression)
-3. [Logistic Regression](03 Logistic Regression)
-4. [Decision Tree](04 Decision Trees)
-5. [Random Forest](05 Random Forests)
-6. [Naive Bayes](06 NaiveBayes)
-7. [Principal Component Analysis (PCA)](07 PCA)
-8. [Perceptron](08 Perceptron)
-9. [Support Vector Machines (SVM)](09 SVM)
-10. [K-Means](10 KMeans)
+1. K-Nearest Neighbors 
+2. Linear Regression
+3. Logistic Regression
+4. Decision Tree
+5. Random Forest
+6. Naive Bayes
+7. Principal Component Analysis 
+8. Perceptron
+9. Support Vector Machines
+10. K-Means
 
 Each sub-repository contains the algorithm's code, detailed explanations, and usage examples to help you understand and apply these machine learning techniques.
 
